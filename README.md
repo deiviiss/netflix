@@ -23,4 +23,4 @@ Conceptos
 - svg (fill)
 
 
-![](https://repository-images.githubusercontent.com/397920098/802880b7-8989-4c15-a387-ab58836e2ca7)
+![](https://repository-images.githubusercontent.com/397920098/9c2d195d-c1fd-42ec-8c67-8371455a0bdc)
